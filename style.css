@@ -1,0 +1,43 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.as{
+  width: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 240px;
+  margin-top: 150px;
+  
+}
+
+.card-group{
+  /* margin: 30px; */
+  /* width: 1300px; */
+ 
+}
+
+h1{
+  position: absolute;
+  margin-left: 370px;
+  padding: 40px;
+  color: blueviolet;
+  background-color: gold !important;
+  
+  
+}
+
+
+h1:hover{
+  color: rgb(0, 255, 13);
+  transition: all 1s ease;
+  background-color: aqua !important;
+}
+
+body{
+  /* background-color: gold !important;
+} */
